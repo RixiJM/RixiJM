@@ -17,7 +17,7 @@
 ## ⛈️Sobre Mi⛈️
 * 🎓 Estudiante universitario de Programacion en la **Universidad de San Martin**
 * 💼 Trabajo en PwC AC Buenos Aires, donde he desarrollado automatizaciones de uso interno centradas en limpieza de reportes y data streamlining
-* 🌎 Ingles **C2
+* 🌎 Ingles **C2**
 * 🐧 Entusiasta de Linux
   
 
